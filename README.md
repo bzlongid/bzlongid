@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bzlongid! Call me Zeya.
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning C# prgramming and Unity.
+- 👋 Hi, I’m Zeya.
+- 👀 I’m a game developer with 5 years of experience with Unity.
+- 🌱 I’m currently open to roles as a C# game deceloper.
 - 💞️ I’m looking to collaborate on game jams!
-- 📫 How to reach me: bzlongid.myportfolio.com
+- 📫 How to reach me: zeyasportfolio.com
 
 <!---
 bzlongid/bzlongid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
